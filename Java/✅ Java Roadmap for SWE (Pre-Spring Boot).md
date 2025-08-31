@@ -1,6 +1,6 @@
 ## 1. [Core Java Fundamentals](1.coreJavaFundamentals.md)
-- [ ] JVM, JDK, JRE basics
-- [ ] Data types & variables
+- [x] JVM, JDK, JRE basics
+- [x] Data types & variables
 - [ ] Operators & type casting
 - [ ] Control flow (`if`, loops, switch)
 - [ ] Arrays (1D, 2D, multi-dimensional)
