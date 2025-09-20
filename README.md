@@ -16,7 +16,7 @@ Each day combines **Database Systems** and **Core Java** concepts with curated r
 **Database:** Fundamentals – Relational Algebra, ERD, Normalization  
 - 📘 Read: *Database System Concepts* (Silberschatz) – Ch. 2–3  
 - 🎥 Watch: [Stanford CS145 – Relational Algebra](https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm)  
-- 🧠 Practice: [Normalization Problems](https://www.geeksforgeeks.org/normalization-in-dbms/)  
+- 🧠 Practice: [Normalization Problems](https://www.geeksforgeeks.org/dbms/normal-forms-in-dbms/)
 
 **Java:** OOP Principles  
 - 📘 Read: [Java OOP (Oracle)](https://docs.oracle.com/javase/tutorial/java/concepts/)  
